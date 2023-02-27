@@ -1,4 +1,4 @@
-# LearSpring
+# LearnSpring
 
 This repository contains all completed classes following the udemy course [Spring Framework Master Class](https://www.udemy.com/share/101XTG3@4wOzCs9XkZpf-gRlXN-_Emc9LZUHJ_E3TJjIOj44QRJto6-GYh_rO6e6br7Q-9Fm/).
 
