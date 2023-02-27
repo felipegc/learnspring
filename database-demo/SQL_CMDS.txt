@@ -1,0 +1,4 @@
+INSERT INTO PERSON (ID, NAME, LOCATION, BIRTH_DATE)
+VALUES(10001, 'RANGA', 'Hyderbad',  current_timestamp());
+
+select * from person;
